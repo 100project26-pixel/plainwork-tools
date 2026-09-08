@@ -1,51 +1,42 @@
-# Plainwork Tools — Comeback Cost Quickcheck
+# Plainwork Tools — 100-Attempt Portfolio
 
-Free, no-login calculator and tracking starter for independent repair shops and field-service businesses.
+Plainwork Tools is a $0-cost experiment portfolio focused on operational pain in repair shops, field service, fleets, contractors, farms and other owner-operated service businesses.
 
-## What this test is trying to learn
+## Current state
 
-Small shops often know that callbacks, warranty returns and rework are expensive, but the cost is spread across technician time, truck expense, unrecovered material and lost billable capacity. This experiment tests whether a simple transparent calculator plus a callback log is useful enough to earn tool use, downloads or a request for a custom worksheet.
+The portfolio now contains **100 tracked attempts (A-001 through A-100)**. Each attempt defines:
 
-## Tool portfolio
+- a specific audience;
+- one concrete operational pain point;
+- a free starter worksheet, tracker, checklist, generator or calculator;
+- a demand signal to watch;
+- a CSV starter schema where useful;
+- a higher-value path to a custom worksheet/workflow sample.
 
-- PM Interval Planner
-- Quote Nudge follow-up generator
-- NA Engine Airflow Quickcheck
-- Equipment inspection starter CSV
-- Comeback Cost Quickcheck and callback log
-- Free custom operations worksheet sample
+Open `portfolio.html` in the repository to browse/search all 100 attempts. When GitHub Pages is enabled, the same file becomes the public interactive portfolio. Every attempt can generate a starter CSV locally in the browser and includes a custom-sample email CTA.
 
-## The offer
+## Lead experiment
 
-- Estimate comeback rate from monthly jobs and callbacks.
-- Estimate cost per comeback.
-- Estimate annual comeback cost.
-- Estimate annual savings from a target reduction.
-- Download a CSV starter log for root-cause tracking.
-- Request a free custom worksheet sample by email.
+`index.html` is A-006, the **Comeback Cost Quickcheck** for independent repair shops and field-service businesses. It estimates comeback rate, cost per comeback, annual cost and potential savings, and includes a root-cause tracking CSV.
 
-The calculator runs entirely in the browser and does not transmit entered values.
+A-006 produced the main portfolio lesson used for later attempts: generic calculators are crowded, so later attempts are deliberately framed around **specific operational pain + a higher-value custom workflow/service outcome**.
 
-## Files
+## Portfolio files
 
-- `index.html` — calculator and landing page
-- `comeback-log-template.csv` — editable callback tracking starter
+- `portfolio.html` — searchable 100-attempt experiment hub
+- `portfolio-data-1.js` through `portfolio-data-5.js` — attempt definitions A-001 through A-100
+- `index.html` — A-006 Comeback Cost Quickcheck
+- `comeback-log-template.csv` — A-006 root-cause log
 - `privacy.html` — privacy disclosure
+- `.github/workflows/pages.yml` — zero-cost Pages deployment workflow, ready after Pages is enabled
 
-## Intended audience
+## Experiment rules
 
-Independent automotive/equipment repair shops, mobile mechanics, and other field-service operators that deal with warranty callbacks or return visits.
-
-## Experiment metrics
-
-Primary demand signals are:
-
-1. qualified custom worksheet inquiries;
-2. evidence of public tool usage or sharing;
-3. callback-log downloads where measurable;
-4. actionable user feedback.
-
-The experiment is deliberately $0-cost and does not require a user account or payment.
+- Spend ceiling: **$0 CAD**.
+- No personal identity is published; public identity is Plainwork Tools / 100project26@gmail.com.
+- Weak or failed attempts should be documented, learned from and replaced so the rolling portfolio stays at 100.
+- Strong attempts can receive more work immediately instead of waiting for a later cycle.
+- Primary signals are qualified inquiries, useful feedback, evidence of use/sharing, or a credible route to a valuable custom workflow/tool.
 
 ## Contact
 
