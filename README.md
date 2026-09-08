@@ -27,6 +27,10 @@ A-006 produced the main portfolio lesson used for later attempts: generic calcul
 - `portfolio-data-1.js` through `portfolio-data-5.js` — attempt definitions A-001 through A-100
 - `index.html` — A-006 Comeback Cost Quickcheck
 - `comeback-log-template.csv` — A-006 root-cause log
+- `technician-efficiency-loss.html` — A-007 capacity/opportunity calculator
+- `mobile-service-quote.html` — A-008 field quote estimator
+- `pm-backlog-triage.html` — A-009 scored maintenance-backlog ranker with CSV export
+- `service-truck-restock.html` — A-010 min/max inventory planner with CSV export
 - `privacy.html` — privacy disclosure
 - `.github/workflows/pages.yml` — zero-cost Pages deployment workflow, ready after Pages is enabled
 
