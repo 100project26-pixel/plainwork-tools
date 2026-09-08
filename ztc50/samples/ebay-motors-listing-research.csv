@@ -1,0 +1,2 @@
+inventory_id,year,make,model,part_name,part_number,compatibility_notes,title_draft,item_specifics_notes,condition_notes,price_research_notes,source_links,review_flag
+EX-001,2008,Honda,Accord,Climate Control,EXAMPLE,"Verify trim/connector/PN before listing","2008 Honda Accord Climate Control EXAMPLE","Example only","Used; describe actual condition from seller photos","Compare active/sold public market data where available",https://example.com,"Demonstration row only"
