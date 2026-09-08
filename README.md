@@ -31,8 +31,15 @@ A-006 produced the main portfolio lesson used for later attempts: generic calcul
 - `mobile-service-quote.html` — A-008 field quote estimator
 - `pm-backlog-triage.html` — A-009 scored maintenance-backlog ranker with CSV export
 - `service-truck-restock.html` — A-010 min/max inventory planner with CSV export
+- `warranty-recovery.html` — A-011 browser-only warranty recovery queue
+- `inspection-defect-review.html` — A-012 conservative defect review queue with safety override
+- `scope-and-use.html` — portfolio-wide plain-language scope, verification, warranty and risk notice
 - `privacy.html` — privacy disclosure
 - `.github/workflows/pages.yml` — zero-cost Pages deployment workflow, ready after Pages is enabled
+
+## Customer-facing risk controls
+
+Free tools and samples link to a plain-language scope notice. Paid work is not accepted through the site. Any future paid engagement must define deliverables, revision/acceptance boundaries, permitted use and price separately, without promising outcomes or professional certification. Higher-risk outputs require independent qualified review.
 
 ## Experiment rules
 
