@@ -1,53 +1,37 @@
-# Plainwork Tools — Portfolio Priorities
+# Plainwork Tools — Canonical Portfolio Priorities
 
-This is the post-run ranking after taking A-001 through A-100 to a minimum testable portfolio state.
+This ranking uses the Google Sheet tracker as the canonical ID map. The public portfolio data was reconciled to that map on 2026-09-08 after an audit found that A-007 through A-100 had been assigned different offers in the repository.
 
-## What A-006 taught the portfolio
+## Selection rule
 
-A generic calculator can validate a problem, but the category is often crowded. The better zero-cost angle is:
-
-**specific operational pain → immediately useful free starter → measurable signal → custom worksheet/workflow/tool offer**
-
-Later attempts are prioritized when the pain is frequent, financially meaningful, easy to explain, and can be improved without requiring access to sensitive customer data or paid software.
+Prioritize a specific, financially meaningful operating pain that can be tested with a useful free starter and can lead naturally to a paid custom worksheet, workflow, or lightweight tool. Avoid spending equal effort on crowded or near-duplicate calculators.
 
 ## Tier 1 — deepen first
 
-1. **A-008 Parts Waiting Board** — clear repair-shop bottleneck; status/ownership/ETA problems are repeatedly documented in current repair workflow material.
-2. **A-010 Estimate Approval Aging** — approval delay directly blocks jobs and bay flow.
-3. **A-014 Diagnostic Time Leakage** — close connection to billable labor and margin; specific repair-shop outcome.
-4. **A-017 Road-Service Dispatch Board** — mobile operators have an obvious need for a lightweight owner/operator dispatch view.
-5. **A-018 Mobile Mechanic Admin Time Audit** — admin overload is a repeated mobile-mechanic pain and is a natural gateway to automation work.
-6. **A-019 Same-Day Invoice Checklist** — delayed invoicing creates a direct revenue leak and a strong workflow-service upsell.
-7. **A-023 Fleet PM Due Board** — small fleets commonly begin in spreadsheets; PM due visibility is concrete and recurring.
-8. **A-024 Fleet Downtime Cost Log** — converts a vague pain into money and can lead to maintenance-planning work.
-9. **A-025 Repeat Failure Tracker** — reliability/root-cause tracking is specific and useful to equipment/fleet operators.
-10. **A-033 Vendor Lead-Time Log** — parts delay is a repeated shop bottleneck; this tests a purchasing angle instead of another generic maintenance log.
-11. **A-038 Field Service First-Time-Fix Log** — return visits are costly and measurable; strong continuation of the A-006 lesson.
-12. **A-042 Return-Trip Parts Cause** — tightly connects van stock decisions to avoidable second trips.
-13. **A-046 Contractor Change Order Register** — strong direct-money pain: field changes can become unbilled work.
-14. **A-047 Unbilled Work Log** — simple, financially explicit and adjacent to change-order capture.
-15. **A-074 Admin Bottleneck Time Audit** — broad owner-operator funnel into higher-value workflow/automation work without claiming to be a full SaaS product.
+1. **A-005 Custom operations workbook sample** — direct service offer and clearest zero-cost revenue path.
+2. **A-006 Comeback cost quickcheck** — quantified repair pain with a custom root-cause workflow path.
+3. **A-008 Mobile service job quote estimator** — direct connection to quoting and paid field work.
+4. **A-009 PM backlog triage worksheet** — recurring fleet problem with custom-rule potential.
+5. **A-010 Service-truck restock min/max planner** — repeatable inventory pain and custom list/workflow path.
+6. **A-011 Warranty recovery tracker** — money-recovery pain with clear shop value.
+7. **A-013 Field invoice completeness checklist** — directly connected to faster, cleaner billing.
+8. **A-014 Parts-wait downtime cost calculator** — supports purchasing and expedite decisions.
+9. **A-015 Customer authorization change log** — protects unbilled scope and approval evidence.
+10. **A-018 Missed service-call cost calculator** — gateway to dispatch and lead-response improvements.
+11. **A-058 Past-due invoice reminder generator** — direct cash-flow pain with low delivery risk.
+12. **A-062 Unbilled-work tracker** — direct revenue leakage.
+13. **A-088 Content sponsorship rate calculator** — diversifies beyond mechanical/field-service ideas.
+14. **A-094 Supplier lead-time tracker** — reusable across trades, repair and small commerce.
+15. **A-100 Customer FAQ gap log** — simple signal capture that can lead to content/automation work.
 
 ## Tier 2 — keep active, test cheaply
 
-A-007, A-009, A-011, A-012, A-013, A-015, A-016, A-020, A-021, A-027, A-029, A-030, A-032, A-034, A-039, A-040, A-041, A-043, A-044, A-045, A-048, A-049, A-050, A-051, A-054, A-055, A-057, A-058, A-059, A-060, A-061, A-068, A-071, A-072, A-075, A-077, A-079, A-080, A-083, A-086, A-088, A-089, A-090, A-098, A-099.
+A-001 through A-004, A-007, A-012, A-016, A-017, A-019 through A-057, A-059 through A-061, A-063 through A-087, and A-089 through A-099 remain valid portfolio probes. Promote them only when distribution, inquiry, usage or better evidence justifies deeper work.
 
-## Tier 3 — retain as portfolio probes, replace first if weak
+## Risk controls
 
-The remaining attempts are useful low-cost probes but currently have weaker differentiation, narrower demand, higher policy/compliance complexity, or a more crowded template category. They should not consume equal effort merely to keep the count at 100. If they show no credible route to signal, record the reason and replace the slot with a better idea.
-
-## Current external evidence used for ranking
-
-Current 2026 market material repeatedly highlights:
-
-- repair jobs waiting on parts needing visible status, ownership, ETA and handoff;
-- repair-shop delays around estimates, approvals, parts, invoices and customer updates;
-- small fleets using spreadsheets for PM/service history before outgrowing them;
-- mobile mechanics losing time to paperwork, delayed invoicing and follow-up;
-- contractors losing revenue when changes or extra work fail to reach billing.
-
-This is not treated as proof that any Plainwork Tools attempt will sell. It is only a reason to allocate the next unit of effort toward these pains first.
+Every customer-facing offer must follow the published Scope and Responsible Use notice. Higher-risk mechanical, safety, compliance, financial or professional-advice-like outputs require stronger warnings and independent qualified verification. Do not represent a worksheet as certification or authority.
 
 ## Operating rule
 
-Do not wait for a new day when a Tier-1 attempt has useful next work available. Build/deepen it immediately. Conversely, do not protect a weak idea because it already occupies a numbered slot: document the failure, apply the lesson, and replace it so the portfolio remains at 100.
+The tracker controls IDs and statuses. Repository portfolio data, priorities, standalone filenames and future reporting must be checked against it before publication. Weak attempts may be retired and replaced, but the portfolio must always return to 100 active or queued slots.
