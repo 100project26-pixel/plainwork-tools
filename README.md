@@ -33,6 +33,8 @@ A-006 produced the main portfolio lesson used for later attempts: generic calcul
 - `service-truck-restock.html` — A-010 min/max inventory planner with CSV export
 - `warranty-recovery.html` — A-011 browser-only warranty recovery queue
 - `inspection-defect-review.html` — A-012 conservative defect review queue with safety override
+- `field-invoice-checklist.html` — A-013 job closeout checklist builder
+- `parts-wait-cost.html` — A-014 delay-cost and expedite tradeoff calculator
 - `scope-and-use.html` — portfolio-wide plain-language scope, verification, warranty and risk notice
 - `privacy.html` — privacy disclosure
 - `.github/workflows/pages.yml` — zero-cost Pages deployment workflow, ready after Pages is enabled
