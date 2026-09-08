@@ -6,6 +6,15 @@ Free, no-login calculator and tracking starter for independent repair shops and 
 
 Small shops often know that callbacks, warranty returns and rework are expensive, but the cost is spread across technician time, truck expense, unrecovered material and lost billable capacity. This experiment tests whether a simple transparent calculator plus a callback log is useful enough to earn tool use, downloads or a request for a custom worksheet.
 
+## Tool portfolio
+
+- PM Interval Planner
+- Quote Nudge follow-up generator
+- NA Engine Airflow Quickcheck
+- Equipment inspection starter CSV
+- Comeback Cost Quickcheck and callback log
+- Free custom operations worksheet sample
+
 ## The offer
 
 - Estimate comeback rate from monthly jobs and callbacks.
