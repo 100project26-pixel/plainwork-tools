@@ -1,0 +1,2 @@
+company,website,location,fit_reason,public_contact_page,public_business_email_if_listed,evidence,notes
+Example Business,https://example.com,Example City,"Matches target profile",https://example.com/contact,,"Public website evidence","Demonstration row only; no private contact scraping"
