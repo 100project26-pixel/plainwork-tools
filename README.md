@@ -43,6 +43,10 @@ A-006 produced the main portfolio lesson used for later attempts: generic calcul
 
 Free tools and samples link to a plain-language scope notice. Paid work is not accepted through the site. Any future paid engagement must define deliverables, revision/acceptance boundaries, permitted use and price separately, without promising outcomes or professional certification. Higher-risk outputs require independent qualified review.
 
+## Canonical ID integrity
+
+The Google Sheet tracker is the canonical source for attempt IDs, offers and statuses. On 2026-09-08 an audit found the repository portfolio data used a different A-007–A-100 mapping. All five portfolio data files and `PRIORITIES.md` were reconciled to the tracker, and the public hub now links directly to richer standalone tools where available.
+
 ## Experiment rules
 
 - Spend ceiling: **$0 CAD**.
