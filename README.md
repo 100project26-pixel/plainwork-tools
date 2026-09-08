@@ -35,6 +35,10 @@ A-006 produced the main portfolio lesson used for later attempts: generic calcul
 - `inspection-defect-review.html` — A-012 conservative defect review queue with safety override
 - `field-invoice-checklist.html` — A-013 job closeout checklist builder
 - `parts-wait-cost.html` — A-014 delay-cost and expedite tradeoff calculator
+- `customer-authorization-log.html` — A-015 scope-change authorization recordkeeping aid
+- `past-due-reminder.html` — A-058 verified-facts invoice reminder generator
+- `unbilled-work.html` — A-062 completed-work revenue leakage tracker
+- `sponsorship-rate.html` — A-088 creator sponsorship estimate worksheet
 - `scope-and-use.html` — portfolio-wide plain-language scope, verification, warranty and risk notice
 - `privacy.html` — privacy disclosure
 - `.github/workflows/pages.yml` — zero-cost Pages deployment workflow, ready after Pages is enabled
